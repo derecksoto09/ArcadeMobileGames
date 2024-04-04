@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LID_GAMES_Arcade_BD" Class="conexionLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=server-lid-games.database.windows.net;Initial Catalog=LID_GAMES_Arcade_BD;User ID=admin-lid-games" SettingsObjectName="BackEnd_LIDGames.Properties.Settings" SettingsPropertyName="LID_GAMES_Arcade_BDConnectionString1" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.SP_ENCONTRAR_USUARIO" Method="SP_ENCONTRAR_USUARIO">
+    <Parameter Name="nameUser" Type="System.String" DbType="NVarChar(3)" />
+    <Parameter Name="IDRETURN" Parameter="iDRETURN" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORID" Parameter="eRRORID" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORDESCRIPCION" Parameter="eRRORDESCRIPCION" Type="System.String" DbType="NVarChar(MAX)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_INGRESAR_PUNTAJES" Method="SP_INGRESAR_PUNTAJES">
+    <Parameter Name="idUser" Type="System.Int32" DbType="Int" />
+    <Parameter Name="puntajeUser" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idGame" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IDRETURN" Parameter="iDRETURN" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORID" Parameter="eRRORID" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORDESCRIPCION" Parameter="eRRORDESCRIPCION" Type="System.String" DbType="NVarChar(MAX)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_INGRESAR_USUARIO" Method="SP_INGRESAR_USUARIO">
+    <Parameter Name="nameUser" Type="System.String" DbType="NVarChar(3)" />
+    <Parameter Name="IDRETURN" Parameter="iDRETURN" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORID" Parameter="eRRORID" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORDESCRIPCION" Parameter="eRRORDESCRIPCION" Type="System.String" DbType="NVarChar(MAX)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_OBTENER_PUNTAJES" Method="SP_OBTENER_PUNTAJES">
+    <ElementType Name="SP_OBTENER_PUNTAJESResult">
+      <Column Name="nombreUsuario" Type="System.String" DbType="NChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="puntos" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="idJuego" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="idUsuario" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = FrontEnd_LID_GAMES
+build_property.ProjectDir = C:\Users\derec\OneDrive - Universidad Latina\ULatina\VI CUATRI\Programación V (Móvil)\Proyecto\FrontEnd_LID_GAMES\
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/AlienAssault.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.AlienAssault.xaml
+build_metadata.AdditionalFiles.TargetPath = AlienAssault.xaml
+build_metadata.AdditionalFiles.RelativePath = AlienAssault.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/Informacion_Proyecto.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.Informacion_Proyecto.xaml
+build_metadata.AdditionalFiles.TargetPath = Informacion_Proyecto.xaml
+build_metadata.AdditionalFiles.RelativePath = Informacion_Proyecto.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/juegoAlien.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.juegoAlien.xaml
+build_metadata.AdditionalFiles.TargetPath = juegoAlien.xaml
+build_metadata.AdditionalFiles.RelativePath = juegoAlien.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/LeaderBoardAlien.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.LeaderBoardAlien.xaml
+build_metadata.AdditionalFiles.TargetPath = LeaderBoardAlien.xaml
+build_metadata.AdditionalFiles.RelativePath = LeaderBoardAlien.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/LeaderBoardPacman.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.LeaderBoardPacman.xaml
+build_metadata.AdditionalFiles.TargetPath = LeaderBoardPacman.xaml
+build_metadata.AdditionalFiles.RelativePath = LeaderBoardPacman.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/LeaderBoardWorm.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.LeaderBoardWorm.xaml
+build_metadata.AdditionalFiles.TargetPath = LeaderBoardWorm.xaml
+build_metadata.AdditionalFiles.RelativePath = LeaderBoardWorm.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/MenuJuegos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.MenuJuegos.xaml
+build_metadata.AdditionalFiles.TargetPath = MenuJuegos.xaml
+build_metadata.AdditionalFiles.RelativePath = MenuJuegos.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/MenuPausaAlienAssault.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.MenuPausaAlienAssault.xaml
+build_metadata.AdditionalFiles.TargetPath = MenuPausaAlienAssault.xaml
+build_metadata.AdditionalFiles.RelativePath = MenuPausaAlienAssault.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/MenuPausaPacMan.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.MenuPausaPacMan.xaml
+build_metadata.AdditionalFiles.TargetPath = MenuPausaPacMan.xaml
+build_metadata.AdditionalFiles.RelativePath = MenuPausaPacMan.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/MenuPausaWorm.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.MenuPausaWorm.xaml
+build_metadata.AdditionalFiles.TargetPath = MenuPausaWorm.xaml
+build_metadata.AdditionalFiles.RelativePath = MenuPausaWorm.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/PacmanMemory.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.PacmanMemory.xaml
+build_metadata.AdditionalFiles.TargetPath = PacmanMemory.xaml
+build_metadata.AdditionalFiles.RelativePath = PacmanMemory.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/PacManMemoryJuego.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.PacManMemoryJuego.xaml
+build_metadata.AdditionalFiles.TargetPath = PacManMemoryJuego.xaml
+build_metadata.AdditionalFiles.RelativePath = PacManMemoryJuego.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/Worm.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.Worm.xaml
+build_metadata.AdditionalFiles.TargetPath = Worm.xaml
+build_metadata.AdditionalFiles.RelativePath = Worm.xaml
+
+[C:/Users/derec/OneDrive - Universidad Latina/ULatina/VI CUATRI/Programación V (Móvil)/Proyecto/FrontEnd_LID_GAMES/WormJuego.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FrontEnd_LID_GAMES.WormJuego.xaml
+build_metadata.AdditionalFiles.TargetPath = WormJuego.xaml
+build_metadata.AdditionalFiles.RelativePath = WormJuego.xaml

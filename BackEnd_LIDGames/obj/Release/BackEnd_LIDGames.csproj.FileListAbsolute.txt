@@ -1,0 +1,7 @@
+C:\Users\derec\Desktop\Proyecto\BackEnd_LIDGames\bin\Release\BackEnd_LIDGames.dll.config
+C:\Users\derec\Desktop\Proyecto\BackEnd_LIDGames\bin\Release\BackEnd_LIDGames.dll
+C:\Users\derec\Desktop\Proyecto\BackEnd_LIDGames\bin\Release\BackEnd_LIDGames.pdb
+C:\Users\derec\Desktop\Proyecto\BackEnd_LIDGames\obj\Release\BackEnd_LIDGames.csproj.AssemblyReference.cache
+C:\Users\derec\Desktop\Proyecto\BackEnd_LIDGames\obj\Release\BackEnd_LIDGames.csproj.CoreCompileInputs.cache
+C:\Users\derec\Desktop\Proyecto\BackEnd_LIDGames\obj\Release\BackEnd_LIDGames.dll
+C:\Users\derec\Desktop\Proyecto\BackEnd_LIDGames\obj\Release\BackEnd_LIDGames.pdb
